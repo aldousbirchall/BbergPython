@@ -1,4 +1,4 @@
-#Create dict (lookup table) for Bberg Tenors into number fo months
+#Create dict (lookup table) for Bberg Tenors into number of months
 
 
 Tenors_Bbg = ['1M',
